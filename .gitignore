@@ -1,0 +1,24 @@
+# dependencies and build caches
+node_modules/
+.next/
+out/
+.cache/
+
+# generated media copies (rebuilt from content/upstream)
+public/files/
+public/search-index.json
+public/favicon.png
+
+# logs / runtime / secrets
+logs/
+*.log
+*.pid
+.env
+.env.*
+cloudflared-config.yml
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+

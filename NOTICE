@@ -1,0 +1,32 @@
+NOTICE
+
+This repository contains a Next.js reading site that renders the public tutorial
+《动手学大模型 Dive into LLMs》 at https://llm.qqx.ai.
+
+Content source
+--------------
+Tutorial text, slides, notebooks, and images are read from the public fork:
+
+    https://github.com/darrenli6/dive-into-llms
+
+pinned in source.lock to commit f84c04268794ef94f8949808bbc14ab8636763a0
+(2025-10-10 14:25:47 +0800, Asia/Shanghai).
+
+That repository is a fork of:
+
+    https://github.com/Lordog/dive-into-llms
+
+At the pinned commit it does not include a LICENSE file. Copyright in the
+tutorial remains with the original authors and contributors. This project does
+not claim copyright over that content, does not relicense it, and does not add
+a LICENSE that would purport to cover it.
+
+The tutorial is a free public series expanded from Shanghai Jiao Tong University
+course materials. The course instructor is Zhang Zhuosheng (张倬胜). See the
+source README for the full contributor list and disclaimer.
+
+What this repository covers
+---------------------------
+The Next.js application, styles, and scripts here only arrange the source
+content for reading (navigation, search, notebooks, PDFs). They do not change
+the wording of the tutorial chapters.

@@ -1,0 +1,7 @@
+# Pinned content source for this reading site.
+# Official content is the public fork below; do not relicense it.
+repo=https://github.com/darrenli6/dive-into-llms.git
+upstream_origin=https://github.com/Lordog/dive-into-llms
+commit=f84c04268794ef94f8949808bbc14ab8636763a0
+# commit date (Asia/Shanghai): 2025-10-10 14:25:47 +0800
+# subject: Update README.md
